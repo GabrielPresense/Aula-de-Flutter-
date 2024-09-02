@@ -11,7 +11,7 @@ class AppContaBancaria extends StatelessWidget {
         useMaterial3: true,
         colorScheme: ColorScheme.fromSeed(
           seedColor: Colors.lightBlue.shade600,
-        )
+        ),
       ),
       home: const Home(),
     );
